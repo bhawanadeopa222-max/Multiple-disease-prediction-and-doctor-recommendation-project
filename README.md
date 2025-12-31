@@ -35,8 +35,8 @@ Project Structure
         │
         ├── data/
         │   ├── diabetes.csv
-        │   ├── heart_disease.csv
-        │   └── breast_cancer.csv
+        │   ├── heart(1).csv
+        │   └── data.csv
         │
         ├── models/
         │   ├── diabetes_model.sav
