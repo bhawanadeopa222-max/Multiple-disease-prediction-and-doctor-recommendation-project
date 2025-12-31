@@ -29,4 +29,24 @@ Tech Stack:
                           streamlit-option-menu  
 
 
-                          
+ Project Structure
+
+├── app.py
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   ├── diabetes.csv
+│   ├── heart_disease.csv
+│   └── breast_cancer.csv
+│
+├── models/
+│   ├── diabetes_model.sav
+│   ├── best_heart_disease_model.sav
+│   └── xgboost_cancer_model.sav
+│
+├── notebooks/
+│   ├── diabetes.ipynb
+│   ├── heart_disease.ipynb
+│   └── breast_cancer.ipynb
+
